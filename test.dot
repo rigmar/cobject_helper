@@ -1,0 +1,4 @@
+strict digraph  {
+	3 -> 1;
+	1 -> 2;
+}
